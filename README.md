@@ -1,7 +1,7 @@
 # Scenes
 The proposed platform enables the creation of chat rooms centered around diverse topics, allowing users to discover and engage in discussions aligned with their interests.
 
-# installation
+### Installation
 1. Clone This Repo : git clone https://github.com/
 
 ## Features
@@ -11,24 +11,13 @@ The proposed platform enables the creation of chat rooms centered around diverse
     .Connect with other Users
     .Search for Rooms
 
-### Prerequisites
+### Tech Stack
+    1. Django
+    2. Sql
 
 
-### Installation
 
-[Provide step-by-step instructions on how to install your project. Include code examples, if necessary.]
 
-## Usage
-
-[Explain how to use your project. Provide code examples and any additional details necessary to understand its usage.]
-
-## Contributing
-
-[Explain how others can contribute to your project, whether it's through bug reports, feature requests, or code contributions.]
-
-## License
-
-[Specify the license for your project and include any necessary disclaimers or legal information.]
 
 
 
