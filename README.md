@@ -19,10 +19,8 @@ The proposed platform enables the creation of chat rooms centered around diverse
 
 ### Home Page
 
+![Home Page](https://github.com/vrutansh/Scenes/assets/51320569/60d510f3-dabe-45de-a240-3802b40bc00b)
 
+### Chat Room Page
 
-
-
-
-
-
+![ChatRoom](https://github.com/vrutansh/Scenes/assets/51320569/e5c095c0-21e9-4b25-82cc-e9a8b68fb735)
